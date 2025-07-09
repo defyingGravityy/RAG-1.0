@@ -1,0 +1,15 @@
+langchain
+python-dotenv
+langchain_community
+ipykernel
+pypdf
+beautifulsoup4
+requests
+arxiv
+pymupdf
+fitz
+langchain-text-splitters
+sentence-transformers
+langchain_huggingface
+faiss-cpu
+langchain_chroma
